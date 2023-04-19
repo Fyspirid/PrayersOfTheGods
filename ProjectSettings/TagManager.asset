@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Box
+  - Damageable
+  - EnemyStopper
+  - Soul
+  - SecretSoul
+  - DeathZone
+  - WinGame
+  - CutSceneZone
+  - Wall
+  - Checkpoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 859028235
+    locked: 0
+  - name: NotActiveObj
+    uniqueID: 2006918339
+    locked: 0
+  - name: Ground
+    uniqueID: 648544413
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ActiveObject
+    uniqueID: 1292980149
+    locked: 0
+  - name: Player
+    uniqueID: 2801948119
+    locked: 0
+  - name: Front
+    uniqueID: 2715706687
+    locked: 0
